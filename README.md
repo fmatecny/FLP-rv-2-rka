@@ -1,8 +1,11 @@
 Funkcionálny projket z predmetu FLP
+
 Varianta: rv-2-rka
+
 Prevod regulárneho výrazu na rozšírený konečný automat
  
 Autor: František Matečný, xmatec00
+
 Datum: 1.4.2017
 
 ===== Rozdelenie projektu: =====
