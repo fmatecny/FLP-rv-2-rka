@@ -9,16 +9,16 @@ Makefile <br />
 rv-2-rka.hs
 
 Functions/ <br />
-	Funct.hs
+&emsp;&emsp; Funct.hs
 	
 Parser/ <br />
-	EFSM.hs <br />
-	Load.hs <br />
-	RE.hs <br />
-	Tree.hs
+&emsp;&emsp; EFSM.hs <br />
+&emsp;&emsp; Load.hs <br />
+&emsp;&emsp; RE.hs <br />
+&emsp;&emsp; Tree.hs
 	
 Types/ <br />
-	Type.hs	
+&emsp;&emsp; Type.hs	
 
 rv-2-rka.hs - hlavný program - spracovanie argumentov, vytvorenie a výpis RV a RKA <br />
 Funct.hs	- pomocné funkcie <br />
