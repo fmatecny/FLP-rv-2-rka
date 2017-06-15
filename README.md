@@ -1,6 +1,6 @@
 #####################################################################
-# Funkcionálny projket z predmetu FLP								#
-#																	#
+\# Funkcionálny projket z predmetu FLP				    #
+#															#
 # Varianta: rv-2-rka												#
 #		  Prevod regulárneho výrazu na rozšírený konečný automat	#
 #																	#
